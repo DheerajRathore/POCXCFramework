@@ -6,12 +6,9 @@ Pod::Spec.new do |s|
     s.homepage     = "https://github.com/DheerajRathore/POCXCFramework"
     s.license = { :type => "MIT", :file => "LICENSE" }
     s.author             = { "Dheeraj Rathore" => "rathoredheeraj7@gmail.com" }
-    s.source       = { :git => "https://github.com/DheerajRathore/POCXCFramework.git", :tag => "#{s.version}" }
-    s.platform = :ios
     s.swift_version = "5.0"
+    s.source       = { :git => "https://github.com/DheerajRathore/POCXCFramework.git", :tag => "#{s.version}" }
     s.vendored_frameworks = "POCXCFramework.xcframework"
+    s.platform = :ios
     s.ios.deployment_target  = '16.2'
-    s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-    s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-    s.requires_arc = true
 end
