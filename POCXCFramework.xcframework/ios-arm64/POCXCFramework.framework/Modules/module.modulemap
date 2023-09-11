@@ -1,0 +1,11 @@
+framework module POCXCFramework {
+  umbrella header "POCXCFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module POCXCFramework.Swift {
+  header "POCXCFramework-Swift.h"
+  requires objc
+}
