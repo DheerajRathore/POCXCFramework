@@ -13,6 +13,41 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestFramework",
+        "printedName": "TestFramework",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "printlog",
+            "printedName": "printlog()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14POCXCFramework13TestFrameworkC8printlogyyF",
+            "mangledName": "$s14POCXCFramework13TestFrameworkC8printlogyyF",
+            "moduleName": "POCXCFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14POCXCFramework13TestFrameworkC",
+        "mangledName": "$s14POCXCFramework13TestFrameworkC",
+        "moduleName": "POCXCFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
       }
     ],
     "json_format_version": 8

@@ -7,3 +7,7 @@ import Foundation
 import Swift
 import _Concurrency
 import _StringProcessing
+@_hasMissingDesignatedInitializers public class TestFramework {
+  public func printlog()
+  @objc deinit
+}
