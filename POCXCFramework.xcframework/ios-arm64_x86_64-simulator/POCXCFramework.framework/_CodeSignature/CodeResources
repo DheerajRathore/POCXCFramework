@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		x2ZQemviIDC8DIh2rMSh21dZ7mA=
+		WqmuihzayA1+oMSCgZrMjhbBEb8=
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		gg00YnHtMgQXiz2WeNgCwtMP7Fo=
+		w3rOJ621EBJLn2Tu1GnDF7lasYU=
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		gg00YnHtMgQXiz2WeNgCwtMP7Fo=
+		w3rOJ621EBJLn2Tu1GnDF7lasYU=
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		o4MqwwLYV0HmpPEPke4oI5FCwnY=
+		86rHJ92YCiHynBxmq7zm4jIKkc4=
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		x2ZQemviIDC8DIh2rMSh21dZ7mA=
+		WqmuihzayA1+oMSCgZrMjhbBEb8=
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		dvQiN1aCGn4bLUU1zH+3rH6C6mU=
+		cdOtoj2pbP3b8IiBkBUCWtd+O2k=
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		dvQiN1aCGn4bLUU1zH+3rH6C6mU=
+		cdOtoj2pbP3b8IiBkBUCWtd+O2k=
 		</data>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xPBxlfguwxy0d6vW/h9jf23U/DA=
+		60mqItqpZ6DI8yvm5KByQMSNf6c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8t078oDgwjNK2RtMW1TP3Z7eMfONaG8fBEO2K+rsc4k=
+			3toQHJRh5m6LuKrdVWPnXaVeOy1KZjTU9m67Kv9ch+M=
 			</data>
 		</dict>
 		<key>Modules/POCXCFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7j8MGxkvqqv4454oxp8G2I4BeCh1+XdIAIS9ujQ9+O8=
+			/LUCdqnSrxfIkbNZFnZ1Mcn52gRvN+GhrSFd+tiIj7Y=
 			</data>
 		</dict>
 		<key>Modules/POCXCFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7j8MGxkvqqv4454oxp8G2I4BeCh1+XdIAIS9ujQ9+O8=
+			/LUCdqnSrxfIkbNZFnZ1Mcn52gRvN+GhrSFd+tiIj7Y=
 			</data>
 		</dict>
 		<key>Modules/POCXCFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IKR+qm5K1We2vHHRDCky438yi0ZfcYPB2DfSIuFc3Mc=
+			L6vnEewSUeZOL+htKVhUk8QzwG1V/YJ5wc5VqLhNVLQ=
 			</data>
 		</dict>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8t078oDgwjNK2RtMW1TP3Z7eMfONaG8fBEO2K+rsc4k=
+			3toQHJRh5m6LuKrdVWPnXaVeOy1KZjTU9m67Kv9ch+M=
 			</data>
 		</dict>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WYhNX0UeXrax7kBPdYkrA+rMPwVGYY2fYhlunFCAMzM=
+			jRo5xPCpbZCP2ZH8iDZGFvvNX6wEpD+nrBnbH+++rLs=
 			</data>
 		</dict>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WYhNX0UeXrax7kBPdYkrA+rMPwVGYY2fYhlunFCAMzM=
+			jRo5xPCpbZCP2ZH8iDZGFvvNX6wEpD+nrBnbH+++rLs=
 			</data>
 		</dict>
 		<key>Modules/POCXCFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AuZTELq4YKFtz6GFh6daCcwa5eCK5ZVcXPfLpiD1DWw=
+			0xVr8QF7KoLkmxOIi61yMPaZ+ARMSTK+iS6kis6Km8w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

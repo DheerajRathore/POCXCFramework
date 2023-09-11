@@ -20,6 +20,27 @@
         "printedName": "TestFramework",
         "children": [
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TestFramework",
+                "printedName": "POCXCFramework.TestFramework",
+                "usr": "s:14POCXCFramework13TestFrameworkC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14POCXCFramework13TestFrameworkCACycfc",
+            "mangledName": "$s14POCXCFramework13TestFrameworkCACycfc",
+            "moduleName": "POCXCFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "printlog",
             "printedName": "printlog()",
@@ -31,8 +52,30 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:14POCXCFramework13TestFrameworkC8printlogyyF",
-            "mangledName": "$s14POCXCFramework13TestFrameworkC8printlogyyF",
+            "usr": "s:14POCXCFramework13TestFrameworkC8printlogyyFZ",
+            "mangledName": "$s14POCXCFramework13TestFrameworkC8printlogyyFZ",
+            "moduleName": "POCXCFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "printObjectlog",
+            "printedName": "printObjectlog()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14POCXCFramework13TestFrameworkC14printObjectlogyyF",
+            "mangledName": "$s14POCXCFramework13TestFrameworkC14printObjectlogyyF",
             "moduleName": "POCXCFramework",
             "declAttributes": [
               "AccessControl"
@@ -46,8 +89,7 @@
         "moduleName": "POCXCFramework",
         "declAttributes": [
           "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
+        ]
       }
     ],
     "json_format_version": 8
