@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "POCXCFramework"
-    s.version      = "2.0.0"
+    s.version      = "2.1.0"
     s.summary      = "TestingApp: TestingApp"
     s.description  = "Add long description of the pod here. what it does. Add long description of the pod here. what it does."
     s.homepage     = "https://github.com/DheerajRathore/POCXCFramework"
