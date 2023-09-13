@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "POCXCFramework.xcframework"
     s.platform = :ios
     s.ios.deployment_target  = '16.2'
-    s.dependency 'AFNetworking', "~> 1.0'
+    s.dependency 'AFNetworking'
 end
